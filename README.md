@@ -2,7 +2,7 @@
 
 # Chipyard Framework [![Test](https://github.com/ucb-bar/chipyard/actions/workflows/chipyard-run-tests.yml/badge.svg)](https://github.com/ucb-bar/chipyard/actions)
 
-## Quick Links
+## yQuick Links
 
 * **Latest Documentation**: https://chipyard.readthedocs.io/
 * **User Question Forum**: https://groups.google.com/forum/#!forum/chipyard
